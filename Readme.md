@@ -50,7 +50,7 @@ TransitNetworkOptimizer/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/TransitNetworkOptimizer.git
+git clone https://github.com/MayankSarode/TransitNetworkOptimizer.git
 cd TransitNetworkOptimizer
 ```
 
